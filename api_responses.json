@@ -1,0 +1,2929 @@
+[
+  {
+    "metadata": {
+      "url": "https://api.digikey.com/products/v4/search/keyword?offset=0&limit=50",
+      "offset": 0,
+      "limit": 50,
+      "product_count": 15,
+      "timestamp": "2025-08-25 09:30:21"
+    },
+    "products": [
+      {
+        "Description": {
+          "ProductDescription": "ISOLATION AMPLIFIER; CURRENT AND",
+          "DetailedDescription": "Isolation Amplifier Current, Voltage DIN Rail"
+        },
+        "Manufacturer": {
+          "Id": 2946,
+          "Name": "WAGO Corporation"
+        },
+        "ManufacturerProductNumber": "857-400",
+        "UnitPrice": 483.29,
+        "ProductUrl": "https://www.digikey.com/en/products/detail/wago-corporation/857-400/13549361",
+        "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5731/857-400.pdf",
+        "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4286/857-400.jpg",
+        "ProductVariations": [
+          {
+            "DigiKeyProductNumber": "2946-857-400-ND",
+            "PackageType": {
+              "Id": 3,
+              "Name": "Bulk"
+            },
+            "StandardPricing": [
+              {
+                "BreakQuantity": 1,
+                "UnitPrice": 483.29,
+                "TotalPrice": 483.29
+              },
+              {
+                "BreakQuantity": 10,
+                "UnitPrice": 405.706,
+                "TotalPrice": 4057.06
+              },
+              {
+                "BreakQuantity": 25,
+                "UnitPrice": 382.0464,
+                "TotalPrice": 9551.16
+              }
+            ],
+            "MyPricing": [],
+            "MarketPlace": false,
+            "TariffActive": false,
+            "Supplier": {
+              "Id": 2946,
+              "Name": "WAGO Corporation"
+            },
+            "QuantityAvailableforPackageType": 29,
+            "MaxQuantityForDistribution": 999999999,
+            "MinimumOrderQuantity": 1,
+            "StandardPackage": 1,
+            "DigiReelFee": 0.0
+          }
+        ],
+        "QuantityAvailable": 29,
+        "ProductStatus": {
+          "Id": 0,
+          "Status": "Active"
+        },
+        "BackOrderNotAllowed": false,
+        "NormallyStocking": true,
+        "Discontinued": false,
+        "EndOfLife": false,
+        "Ncnr": false,
+        "PrimaryVideoUrl": null,
+        "Parameters": [
+          {
+            "ParameterId": 183,
+            "ParameterText": "Type",
+            "ParameterType": "String",
+            "ValueId": "361619",
+            "ValueText": "Isolation Amplifier"
+          },
+          {
+            "ParameterId": 474,
+            "ParameterText": "Input Type",
+            "ParameterType": "String",
+            "ValueId": "336139",
+            "ValueText": "Current, Voltage"
+          },
+          {
+            "ParameterId": 2470,
+            "ParameterText": "Input Range (Current, Voltage)",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 2471,
+            "ParameterText": "Input Range (Additional)",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 41,
+            "ParameterText": "Output Type",
+            "ParameterType": "String",
+            "ValueId": "336139",
+            "ValueText": "Current, Voltage"
+          },
+          {
+            "ParameterId": 2462,
+            "ParameterText": "Output Range",
+            "ParameterType": "String",
+            "ValueId": "480590",
+            "ValueText": "0 ~ 20mA, 0 ~ 10V (Configurable)"
+          },
+          {
+            "ParameterId": 1165,
+            "ParameterText": "Isolation",
+            "ParameterType": "String",
+            "ValueId": "156816",
+            "ValueText": "2500V"
+          },
+          {
+            "ParameterId": 5,
+            "ParameterText": "Features",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 276,
+            "ParameterText": "Voltage - Supply",
+            "ParameterType": "String",
+            "ValueId": "155281",
+            "ValueText": "24VDC"
+          },
+          {
+            "ParameterId": 69,
+            "ParameterText": "Mounting Type",
+            "ParameterType": "String",
+            "ValueId": "339014",
+            "ValueText": "DIN Rail"
+          },
+          {
+            "ParameterId": 258,
+            "ParameterText": "Termination Style",
+            "ParameterType": "String",
+            "ValueId": "406540",
+            "ValueText": "Spring Terminal"
+          },
+          {
+            "ParameterId": 252,
+            "ParameterText": "Operating Temperature",
+            "ParameterType": "String",
+            "ValueId": "156439",
+            "ValueText": "-25°C ~ 70°C"
+          }
+        ],
+        "BaseProductNumber": {
+          "Id": 299433,
+          "Name": "857"
+        },
+        "Category": {
+          "CategoryId": 34,
+          "ParentId": 0,
+          "Name": "Industrial Automation and Controls",
+          "ProductCount": 0,
+          "NewProductCount": 0,
+          "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/953/537/MFG_1528_997_tmb.jpg",
+          "SeoDescription": "The industrial automation and control product category encompasses a wide variety of products used for industrial machine and process control, monitoring, and operator interface applications. They typically feature a higher level of integration than similar component-level products, and are designed to be usable as functional building blocks without further manufacturing steps, such as assembly onto a printed circuit board.",
+          "ChildCategories": [
+            {
+              "CategoryId": 1020,
+              "ParentId": 34,
+              "Name": "Signal Conditioners and Isolators",
+              "ProductCount": 0,
+              "NewProductCount": 0,
+              "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/122/IAMA3535_tmb.jpg",
+              "SeoDescription": "Signal conditioners are used to convert signals to a different level or type often for sensor measurements. Isolators are devices that separate or isolate one circuit from another in regard to power. Types available include isolation amplifiers, passive isolators, signal conditioners, and more. These are defined by various parameters including input type, output type, isolation voltage, extra features and more.",
+              "ChildCategories": []
+            }
+          ]
+        },
+        "DateLastBuyChance": null,
+        "ManufacturerLeadWeeks": "8",
+        "ManufacturerPublicQuantity": 0,
+        "Series": {
+          "Id": 818,
+          "Name": "-"
+        },
+        "ShippingInfo": null,
+        "Classifications": {
+          "ReachStatus": "REACH Affected",
+          "RohsStatus": "ROHS3 Compliant",
+          "MoistureSensitivityLevel": "1  (Unlimited)",
+          "ExportControlClassNumber": "EAR99",
+          "HtsusCode": "8543.70.9860"
+        },
+        "OtherNames": [
+          "8570400",
+          "2946-857-400",
+          "0857-0400"
+        ]
+      },
+      {
+        "Description": {
+          "ProductDescription": "ISOLATION AMPLIFIER; CURRENT AND",
+          "DetailedDescription": "Isolation Amplifier Current, Voltage DIN Rail"
+        },
+        "Manufacturer": {
+          "Id": 2946,
+          "Name": "WAGO Corporation"
+        },
+        "ManufacturerProductNumber": "857-401",
+        "UnitPrice": 423.18,
+        "ProductUrl": "https://www.digikey.com/en/products/detail/wago-corporation/857-401/15538491",
+        "DatasheetUrl": "https://wago.priintcloud.com/datasheets/857-401/en/",
+        "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4547/MFG_857-401.jpg",
+        "ProductVariations": [
+          {
+            "DigiKeyProductNumber": "2946-857-401-ND",
+            "PackageType": {
+              "Id": 62,
+              "Name": "Bag"
+            },
+            "StandardPricing": [
+              {
+                "BreakQuantity": 1,
+                "UnitPrice": 423.18,
+                "TotalPrice": 423.18
+              },
+              {
+                "BreakQuantity": 10,
+                "UnitPrice": 383.164,
+                "TotalPrice": 3831.64
+              },
+              {
+                "BreakQuantity": 25,
+                "UnitPrice": 368.3084,
+                "TotalPrice": 9207.71
+              }
+            ],
+            "MyPricing": [],
+            "MarketPlace": false,
+            "TariffActive": false,
+            "Supplier": {
+              "Id": 2946,
+              "Name": "WAGO Corporation"
+            },
+            "QuantityAvailableforPackageType": 7,
+            "MaxQuantityForDistribution": 999999999,
+            "MinimumOrderQuantity": 1,
+            "StandardPackage": 1,
+            "DigiReelFee": 0.0
+          }
+        ],
+        "QuantityAvailable": 7,
+        "ProductStatus": {
+          "Id": 0,
+          "Status": "Active"
+        },
+        "BackOrderNotAllowed": false,
+        "NormallyStocking": true,
+        "Discontinued": false,
+        "EndOfLife": false,
+        "Ncnr": false,
+        "PrimaryVideoUrl": null,
+        "Parameters": [
+          {
+            "ParameterId": 183,
+            "ParameterText": "Type",
+            "ParameterType": "String",
+            "ValueId": "361619",
+            "ValueText": "Isolation Amplifier"
+          },
+          {
+            "ParameterId": 474,
+            "ParameterText": "Input Type",
+            "ParameterType": "String",
+            "ValueId": "336139",
+            "ValueText": "Current, Voltage"
+          },
+          {
+            "ParameterId": 2470,
+            "ParameterText": "Input Range (Current, Voltage)",
+            "ParameterType": "String",
+            "ValueId": "694612",
+            "ValueText": "±20mA, 0 ~ 30V (Configurable)"
+          },
+          {
+            "ParameterId": 2471,
+            "ParameterText": "Input Range (Additional)",
+            "ParameterType": "String",
+            "ValueId": "3025",
+            "ValueText": "0 ~ 100kOhm"
+          },
+          {
+            "ParameterId": 41,
+            "ParameterText": "Output Type",
+            "ParameterType": "String",
+            "ValueId": "336139",
+            "ValueText": "Current, Voltage"
+          },
+          {
+            "ParameterId": 2462,
+            "ParameterText": "Output Range",
+            "ParameterType": "String",
+            "ValueId": "480590",
+            "ValueText": "0 ~ 20mA, 0 ~ 10V (Configurable)"
+          },
+          {
+            "ParameterId": 1165,
+            "ParameterText": "Isolation",
+            "ParameterType": "String",
+            "ValueId": "480629",
+            "ValueText": "2500V (Test)"
+          },
+          {
+            "ParameterId": 5,
+            "ParameterText": "Features",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 276,
+            "ParameterText": "Voltage - Supply",
+            "ParameterType": "String",
+            "ValueId": "155281",
+            "ValueText": "24VDC"
+          },
+          {
+            "ParameterId": 69,
+            "ParameterText": "Mounting Type",
+            "ParameterType": "String",
+            "ValueId": "339014",
+            "ValueText": "DIN Rail"
+          },
+          {
+            "ParameterId": 258,
+            "ParameterText": "Termination Style",
+            "ParameterType": "String",
+            "ValueId": "406540",
+            "ValueText": "Spring Terminal"
+          },
+          {
+            "ParameterId": 252,
+            "ParameterText": "Operating Temperature",
+            "ParameterType": "String",
+            "ValueId": "156439",
+            "ValueText": "-25°C ~ 70°C"
+          }
+        ],
+        "BaseProductNumber": null,
+        "Category": {
+          "CategoryId": 34,
+          "ParentId": 0,
+          "Name": "Industrial Automation and Controls",
+          "ProductCount": 0,
+          "NewProductCount": 0,
+          "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/953/537/MFG_1528_997_tmb.jpg",
+          "SeoDescription": "The industrial automation and control product category encompasses a wide variety of products used for industrial machine and process control, monitoring, and operator interface applications. They typically feature a higher level of integration than similar component-level products, and are designed to be usable as functional building blocks without further manufacturing steps, such as assembly onto a printed circuit board.",
+          "ChildCategories": [
+            {
+              "CategoryId": 1020,
+              "ParentId": 34,
+              "Name": "Signal Conditioners and Isolators",
+              "ProductCount": 0,
+              "NewProductCount": 0,
+              "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/122/IAMA3535_tmb.jpg",
+              "SeoDescription": "Signal conditioners are used to convert signals to a different level or type often for sensor measurements. Isolators are devices that separate or isolate one circuit from another in regard to power. Types available include isolation amplifiers, passive isolators, signal conditioners, and more. These are defined by various parameters including input type, output type, isolation voltage, extra features and more.",
+              "ChildCategories": []
+            }
+          ]
+        },
+        "DateLastBuyChance": null,
+        "ManufacturerLeadWeeks": "12",
+        "ManufacturerPublicQuantity": 0,
+        "Series": {
+          "Id": 4549,
+          "Name": "857"
+        },
+        "ShippingInfo": null,
+        "Classifications": {
+          "ReachStatus": "REACH Affected",
+          "RohsStatus": "ROHS3 Compliant",
+          "MoistureSensitivityLevel": "Not Applicable",
+          "ExportControlClassNumber": "EAR99",
+          "HtsusCode": "8543.70.9860"
+        },
+        "OtherNames": [
+          "0857-401",
+          "2943-857-401",
+          "8570401",
+          "0857401",
+          "0857-0401",
+          "2943-857-401-ND",
+          "2946-857-401",
+          "857401"
+        ]
+      },
+      {
+        "Description": {
+          "ProductDescription": "ISOLATION AMPLIFIER; BIPOLAR CUR",
+          "DetailedDescription": "Isolation Amplifier Current, Voltage DIN Rail"
+        },
+        "Manufacturer": {
+          "Id": 2946,
+          "Name": "WAGO Corporation"
+        },
+        "ManufacturerProductNumber": "857-409",
+        "UnitPrice": 435.99,
+        "ProductUrl": "https://www.digikey.com/en/products/detail/wago-corporation/857-409/15527924",
+        "DatasheetUrl": "https://wago.priintcloud.com/datasheets/857-409/en/",
+        "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4364/MFG_857-409.jpg",
+        "ProductVariations": [
+          {
+            "DigiKeyProductNumber": "2946-857-409-ND",
+            "PackageType": {
+              "Id": 62,
+              "Name": "Bag"
+            },
+            "StandardPricing": [
+              {
+                "BreakQuantity": 1,
+                "UnitPrice": 435.99,
+                "TotalPrice": 435.99
+              },
+              {
+                "BreakQuantity": 10,
+                "UnitPrice": 394.759,
+                "TotalPrice": 3947.59
+              },
+              {
+                "BreakQuantity": 25,
+                "UnitPrice": 379.4516,
+                "TotalPrice": 9486.29
+              }
+            ],
+            "MyPricing": [],
+            "MarketPlace": false,
+            "TariffActive": false,
+            "Supplier": {
+              "Id": 2946,
+              "Name": "WAGO Corporation"
+            },
+            "QuantityAvailableforPackageType": 12,
+            "MaxQuantityForDistribution": 999999999,
+            "MinimumOrderQuantity": 1,
+            "StandardPackage": 1,
+            "DigiReelFee": 0.0
+          }
+        ],
+        "QuantityAvailable": 12,
+        "ProductStatus": {
+          "Id": 0,
+          "Status": "Active"
+        },
+        "BackOrderNotAllowed": false,
+        "NormallyStocking": true,
+        "Discontinued": false,
+        "EndOfLife": false,
+        "Ncnr": false,
+        "PrimaryVideoUrl": null,
+        "Parameters": [
+          {
+            "ParameterId": 183,
+            "ParameterText": "Type",
+            "ParameterType": "String",
+            "ValueId": "361619",
+            "ValueText": "Isolation Amplifier"
+          },
+          {
+            "ParameterId": 474,
+            "ParameterText": "Input Type",
+            "ParameterType": "String",
+            "ValueId": "336139",
+            "ValueText": "Current, Voltage"
+          },
+          {
+            "ParameterId": 2470,
+            "ParameterText": "Input Range (Current, Voltage)",
+            "ParameterType": "String",
+            "ValueId": "473637",
+            "ValueText": "±20mA, ±10V (Configurable)"
+          },
+          {
+            "ParameterId": 2471,
+            "ParameterText": "Input Range (Additional)",
+            "ParameterType": "String",
+            "ValueId": "3160",
+            "ValueText": "0 ~ 1MOhm"
+          },
+          {
+            "ParameterId": 41,
+            "ParameterText": "Output Type",
+            "ParameterType": "String",
+            "ValueId": "336139",
+            "ValueText": "Current, Voltage"
+          },
+          {
+            "ParameterId": 2462,
+            "ParameterText": "Output Range",
+            "ParameterType": "String",
+            "ValueId": "473637",
+            "ValueText": "±20mA, ±10V (Configurable)"
+          },
+          {
+            "ParameterId": 1165,
+            "ParameterText": "Isolation",
+            "ParameterType": "String",
+            "ValueId": "480632",
+            "ValueText": "3000V (Test)"
+          },
+          {
+            "ParameterId": 5,
+            "ParameterText": "Features",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 276,
+            "ParameterText": "Voltage - Supply",
+            "ParameterType": "String",
+            "ValueId": "155281",
+            "ValueText": "24VDC"
+          },
+          {
+            "ParameterId": 69,
+            "ParameterText": "Mounting Type",
+            "ParameterType": "String",
+            "ValueId": "339014",
+            "ValueText": "DIN Rail"
+          },
+          {
+            "ParameterId": 258,
+            "ParameterText": "Termination Style",
+            "ParameterType": "String",
+            "ValueId": "406540",
+            "ValueText": "Spring Terminal"
+          },
+          {
+            "ParameterId": 252,
+            "ParameterText": "Operating Temperature",
+            "ParameterType": "String",
+            "ValueId": "156439",
+            "ValueText": "-25°C ~ 70°C"
+          }
+        ],
+        "BaseProductNumber": null,
+        "Category": {
+          "CategoryId": 34,
+          "ParentId": 0,
+          "Name": "Industrial Automation and Controls",
+          "ProductCount": 0,
+          "NewProductCount": 0,
+          "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/953/537/MFG_1528_997_tmb.jpg",
+          "SeoDescription": "The industrial automation and control product category encompasses a wide variety of products used for industrial machine and process control, monitoring, and operator interface applications. They typically feature a higher level of integration than similar component-level products, and are designed to be usable as functional building blocks without further manufacturing steps, such as assembly onto a printed circuit board.",
+          "ChildCategories": [
+            {
+              "CategoryId": 1020,
+              "ParentId": 34,
+              "Name": "Signal Conditioners and Isolators",
+              "ProductCount": 0,
+              "NewProductCount": 0,
+              "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/122/IAMA3535_tmb.jpg",
+              "SeoDescription": "Signal conditioners are used to convert signals to a different level or type often for sensor measurements. Isolators are devices that separate or isolate one circuit from another in regard to power. Types available include isolation amplifiers, passive isolators, signal conditioners, and more. These are defined by various parameters including input type, output type, isolation voltage, extra features and more.",
+              "ChildCategories": []
+            }
+          ]
+        },
+        "DateLastBuyChance": null,
+        "ManufacturerLeadWeeks": "12",
+        "ManufacturerPublicQuantity": 0,
+        "Series": {
+          "Id": 4549,
+          "Name": "857"
+        },
+        "ShippingInfo": null,
+        "Classifications": {
+          "ReachStatus": "REACH Affected",
+          "RohsStatus": "ROHS3 Compliant",
+          "MoistureSensitivityLevel": "Not Applicable",
+          "ExportControlClassNumber": "EAR99",
+          "HtsusCode": "8543.70.9810"
+        },
+        "OtherNames": [
+          "2943-857-409-ND",
+          "2946-857-409",
+          "857409",
+          "0857-409",
+          "2943-857-409",
+          "8570409",
+          "0857409",
+          "0857-0409"
+        ]
+      },
+      {
+        "Description": {
+          "ProductDescription": "LOOP-POWERED ISOLATION AMPLIFIER",
+          "DetailedDescription": "Isolation Amplifier Current, Voltage DIN Rail"
+        },
+        "Manufacturer": {
+          "Id": 2946,
+          "Name": "WAGO Corporation"
+        },
+        "ManufacturerProductNumber": "857-450",
+        "UnitPrice": 438.73,
+        "ProductUrl": "https://www.digikey.com/en/products/detail/wago-corporation/857-450/15557266",
+        "DatasheetUrl": "https://wago.priintcloud.com/datasheets/857-450/en/",
+        "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4565/MFG_857-450.jpg",
+        "ProductVariations": [
+          {
+            "DigiKeyProductNumber": "2946-857-450-ND",
+            "PackageType": {
+              "Id": 62,
+              "Name": "Bag"
+            },
+            "StandardPricing": [
+              {
+                "BreakQuantity": 1,
+                "UnitPrice": 438.73,
+                "TotalPrice": 438.73
+              },
+              {
+                "BreakQuantity": 10,
+                "UnitPrice": 347.333,
+                "TotalPrice": 3473.33
+              },
+              {
+                "BreakQuantity": 25,
+                "UnitPrice": 326.4748,
+                "TotalPrice": 8161.87
+              }
+            ],
+            "MyPricing": [],
+            "MarketPlace": false,
+            "TariffActive": false,
+            "Supplier": {
+              "Id": 2946,
+              "Name": "WAGO Corporation"
+            },
+            "QuantityAvailableforPackageType": 15,
+            "MaxQuantityForDistribution": 999999999,
+            "MinimumOrderQuantity": 1,
+            "StandardPackage": 1,
+            "DigiReelFee": 0.0
+          }
+        ],
+        "QuantityAvailable": 15,
+        "ProductStatus": {
+          "Id": 0,
+          "Status": "Active"
+        },
+        "BackOrderNotAllowed": false,
+        "NormallyStocking": true,
+        "Discontinued": false,
+        "EndOfLife": false,
+        "Ncnr": false,
+        "PrimaryVideoUrl": null,
+        "Parameters": [
+          {
+            "ParameterId": 183,
+            "ParameterText": "Type",
+            "ParameterType": "String",
+            "ValueId": "361619",
+            "ValueText": "Isolation Amplifier"
+          },
+          {
+            "ParameterId": 474,
+            "ParameterText": "Input Type",
+            "ParameterType": "String",
+            "ValueId": "336139",
+            "ValueText": "Current, Voltage"
+          },
+          {
+            "ParameterId": 2470,
+            "ParameterText": "Input Range (Current, Voltage)",
+            "ParameterType": "String",
+            "ValueId": "694613",
+            "ValueText": "±20mA, ±20V (Configurable)"
+          },
+          {
+            "ParameterId": 2471,
+            "ParameterText": "Input Range (Additional)",
+            "ParameterType": "String",
+            "ValueId": "3160",
+            "ValueText": "0 ~ 1MOhm"
+          },
+          {
+            "ParameterId": 41,
+            "ParameterText": "Output Type",
+            "ParameterType": "String",
+            "ValueId": "335810",
+            "ValueText": "Current"
+          },
+          {
+            "ParameterId": 2462,
+            "ParameterText": "Output Range",
+            "ParameterType": "String",
+            "ValueId": "203342",
+            "ValueText": "4 ~ 20mA"
+          },
+          {
+            "ParameterId": 1165,
+            "ParameterText": "Isolation",
+            "ParameterType": "String",
+            "ValueId": "480629",
+            "ValueText": "2500V (Test)"
+          },
+          {
+            "ParameterId": 5,
+            "ParameterText": "Features",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 276,
+            "ParameterText": "Voltage - Supply",
+            "ParameterType": "String",
+            "ValueId": "281614",
+            "ValueText": "8 ~ 30VDC"
+          },
+          {
+            "ParameterId": 69,
+            "ParameterText": "Mounting Type",
+            "ParameterType": "String",
+            "ValueId": "339014",
+            "ValueText": "DIN Rail"
+          },
+          {
+            "ParameterId": 258,
+            "ParameterText": "Termination Style",
+            "ParameterType": "String",
+            "ValueId": "406540",
+            "ValueText": "Spring Terminal"
+          },
+          {
+            "ParameterId": 252,
+            "ParameterText": "Operating Temperature",
+            "ParameterType": "String",
+            "ValueId": "156439",
+            "ValueText": "-25°C ~ 70°C"
+          }
+        ],
+        "BaseProductNumber": null,
+        "Category": {
+          "CategoryId": 34,
+          "ParentId": 0,
+          "Name": "Industrial Automation and Controls",
+          "ProductCount": 0,
+          "NewProductCount": 0,
+          "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/953/537/MFG_1528_997_tmb.jpg",
+          "SeoDescription": "The industrial automation and control product category encompasses a wide variety of products used for industrial machine and process control, monitoring, and operator interface applications. They typically feature a higher level of integration than similar component-level products, and are designed to be usable as functional building blocks without further manufacturing steps, such as assembly onto a printed circuit board.",
+          "ChildCategories": [
+            {
+              "CategoryId": 1020,
+              "ParentId": 34,
+              "Name": "Signal Conditioners and Isolators",
+              "ProductCount": 0,
+              "NewProductCount": 0,
+              "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/122/IAMA3535_tmb.jpg",
+              "SeoDescription": "Signal conditioners are used to convert signals to a different level or type often for sensor measurements. Isolators are devices that separate or isolate one circuit from another in regard to power. Types available include isolation amplifiers, passive isolators, signal conditioners, and more. These are defined by various parameters including input type, output type, isolation voltage, extra features and more.",
+              "ChildCategories": []
+            }
+          ]
+        },
+        "DateLastBuyChance": null,
+        "ManufacturerLeadWeeks": "12",
+        "ManufacturerPublicQuantity": 0,
+        "Series": {
+          "Id": 4549,
+          "Name": "857"
+        },
+        "ShippingInfo": null,
+        "Classifications": {
+          "ReachStatus": "REACH Affected",
+          "RohsStatus": "ROHS3 Compliant",
+          "MoistureSensitivityLevel": "Not Applicable",
+          "ExportControlClassNumber": "EAR99",
+          "HtsusCode": "8543.70.9860"
+        },
+        "OtherNames": [
+          "857450",
+          "8570450",
+          "0857450",
+          "2943-857-450-ND",
+          "0857-450",
+          "0857-0450",
+          "2943-857-450",
+          "2946-857-450"
+        ]
+      },
+      {
+        "Description": {
+          "ProductDescription": "ISOLATION AMPLIFIER; CURRENT AND",
+          "DetailedDescription": "Isolation Amplifier Current, Voltage DIN Rail"
+        },
+        "Manufacturer": {
+          "Id": 2946,
+          "Name": "WAGO Corporation"
+        },
+        "ManufacturerProductNumber": "857-423",
+        "UnitPrice": 491.39,
+        "ProductUrl": "https://www.digikey.com/en/products/detail/wago-corporation/857-423/13549624",
+        "DatasheetUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5731/857-423.pdf",
+        "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4316/857-423.jpg",
+        "ProductVariations": [
+          {
+            "DigiKeyProductNumber": "2946-857-423-ND",
+            "PackageType": {
+              "Id": 3,
+              "Name": "Bulk"
+            },
+            "StandardPricing": [
+              {
+                "BreakQuantity": 1,
+                "UnitPrice": 491.39,
+                "TotalPrice": 491.39
+              },
+              {
+                "BreakQuantity": 10,
+                "UnitPrice": 412.591,
+                "TotalPrice": 4125.91
+              },
+              {
+                "BreakQuantity": 25,
+                "UnitPrice": 388.5744,
+                "TotalPrice": 9714.36
+              }
+            ],
+            "MyPricing": [],
+            "MarketPlace": false,
+            "TariffActive": false,
+            "Supplier": {
+              "Id": 2946,
+              "Name": "WAGO Corporation"
+            },
+            "QuantityAvailableforPackageType": 15,
+            "MaxQuantityForDistribution": 999999999,
+            "MinimumOrderQuantity": 1,
+            "StandardPackage": 1,
+            "DigiReelFee": 0.0
+          }
+        ],
+        "QuantityAvailable": 15,
+        "ProductStatus": {
+          "Id": 0,
+          "Status": "Active"
+        },
+        "BackOrderNotAllowed": false,
+        "NormallyStocking": true,
+        "Discontinued": false,
+        "EndOfLife": false,
+        "Ncnr": false,
+        "PrimaryVideoUrl": null,
+        "Parameters": [
+          {
+            "ParameterId": 183,
+            "ParameterText": "Type",
+            "ParameterType": "String",
+            "ValueId": "361619",
+            "ValueText": "Isolation Amplifier"
+          },
+          {
+            "ParameterId": 474,
+            "ParameterText": "Input Type",
+            "ParameterType": "String",
+            "ValueId": "336139",
+            "ValueText": "Current, Voltage"
+          },
+          {
+            "ParameterId": 2470,
+            "ParameterText": "Input Range (Current, Voltage)",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 2471,
+            "ParameterText": "Input Range (Additional)",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 41,
+            "ParameterText": "Output Type",
+            "ParameterType": "String",
+            "ValueId": "335810",
+            "ValueText": "Current"
+          },
+          {
+            "ParameterId": 2462,
+            "ParameterText": "Output Range",
+            "ParameterType": "String",
+            "ValueId": "480588",
+            "ValueText": "0 ~ 20mA (Configurable)"
+          },
+          {
+            "ParameterId": 1165,
+            "ParameterText": "Isolation",
+            "ParameterType": "String",
+            "ValueId": "156816",
+            "ValueText": "2500V"
+          },
+          {
+            "ParameterId": 5,
+            "ParameterText": "Features",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 276,
+            "ParameterText": "Voltage - Supply",
+            "ParameterType": "String",
+            "ValueId": "155281",
+            "ValueText": "24VDC"
+          },
+          {
+            "ParameterId": 69,
+            "ParameterText": "Mounting Type",
+            "ParameterType": "String",
+            "ValueId": "339014",
+            "ValueText": "DIN Rail"
+          },
+          {
+            "ParameterId": 258,
+            "ParameterText": "Termination Style",
+            "ParameterType": "String",
+            "ValueId": "406540",
+            "ValueText": "Spring Terminal"
+          },
+          {
+            "ParameterId": 252,
+            "ParameterText": "Operating Temperature",
+            "ParameterType": "String",
+            "ValueId": "156439",
+            "ValueText": "-25°C ~ 70°C"
+          }
+        ],
+        "BaseProductNumber": {
+          "Id": 299433,
+          "Name": "857"
+        },
+        "Category": {
+          "CategoryId": 34,
+          "ParentId": 0,
+          "Name": "Industrial Automation and Controls",
+          "ProductCount": 0,
+          "NewProductCount": 0,
+          "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/953/537/MFG_1528_997_tmb.jpg",
+          "SeoDescription": "The industrial automation and control product category encompasses a wide variety of products used for industrial machine and process control, monitoring, and operator interface applications. They typically feature a higher level of integration than similar component-level products, and are designed to be usable as functional building blocks without further manufacturing steps, such as assembly onto a printed circuit board.",
+          "ChildCategories": [
+            {
+              "CategoryId": 1020,
+              "ParentId": 34,
+              "Name": "Signal Conditioners and Isolators",
+              "ProductCount": 0,
+              "NewProductCount": 0,
+              "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/122/IAMA3535_tmb.jpg",
+              "SeoDescription": "Signal conditioners are used to convert signals to a different level or type often for sensor measurements. Isolators are devices that separate or isolate one circuit from another in regard to power. Types available include isolation amplifiers, passive isolators, signal conditioners, and more. These are defined by various parameters including input type, output type, isolation voltage, extra features and more.",
+              "ChildCategories": []
+            }
+          ]
+        },
+        "DateLastBuyChance": null,
+        "ManufacturerLeadWeeks": "8",
+        "ManufacturerPublicQuantity": 0,
+        "Series": {
+          "Id": 818,
+          "Name": "-"
+        },
+        "ShippingInfo": null,
+        "Classifications": {
+          "ReachStatus": "REACH Affected",
+          "RohsStatus": "ROHS3 Compliant",
+          "MoistureSensitivityLevel": "1  (Unlimited)",
+          "ExportControlClassNumber": "EAR99",
+          "HtsusCode": "8543.70.9860"
+        },
+        "OtherNames": [
+          "8570423",
+          "0857-0423",
+          "2946-857-423"
+        ]
+      },
+      {
+        "Description": {
+          "ProductDescription": "ISOLATION AMPLIFIER; VOLTAGE INP",
+          "DetailedDescription": "Isolation Amplifier Voltage DIN Rail"
+        },
+        "Manufacturer": {
+          "Id": 2946,
+          "Name": "WAGO Corporation"
+        },
+        "ManufacturerProductNumber": "857-412",
+        "UnitPrice": 281.99,
+        "ProductUrl": "https://www.digikey.com/en/products/detail/wago-corporation/857-412/15521626",
+        "DatasheetUrl": "https://wago.priintcloud.com/datasheets/857-412/en/",
+        "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4273/MFG_857-412.jpg",
+        "ProductVariations": [
+          {
+            "DigiKeyProductNumber": "2946-857-412-ND",
+            "PackageType": {
+              "Id": 62,
+              "Name": "Bag"
+            },
+            "StandardPricing": [
+              {
+                "BreakQuantity": 1,
+                "UnitPrice": 281.99,
+                "TotalPrice": 281.99
+              },
+              {
+                "BreakQuantity": 10,
+                "UnitPrice": 255.331,
+                "TotalPrice": 2553.31
+              },
+              {
+                "BreakQuantity": 25,
+                "UnitPrice": 245.4328,
+                "TotalPrice": 6135.82
+              }
+            ],
+            "MyPricing": [],
+            "MarketPlace": false,
+            "TariffActive": false,
+            "Supplier": {
+              "Id": 2946,
+              "Name": "WAGO Corporation"
+            },
+            "QuantityAvailableforPackageType": 8,
+            "MaxQuantityForDistribution": 0,
+            "MinimumOrderQuantity": 1,
+            "StandardPackage": 0,
+            "DigiReelFee": 0.0
+          }
+        ],
+        "QuantityAvailable": 8,
+        "ProductStatus": {
+          "Id": 0,
+          "Status": "Active"
+        },
+        "BackOrderNotAllowed": false,
+        "NormallyStocking": true,
+        "Discontinued": false,
+        "EndOfLife": false,
+        "Ncnr": false,
+        "PrimaryVideoUrl": null,
+        "Parameters": [
+          {
+            "ParameterId": 183,
+            "ParameterText": "Type",
+            "ParameterType": "String",
+            "ValueId": "361619",
+            "ValueText": "Isolation Amplifier"
+          },
+          {
+            "ParameterId": 474,
+            "ParameterText": "Input Type",
+            "ParameterType": "String",
+            "ValueId": "420137",
+            "ValueText": "Voltage"
+          },
+          {
+            "ParameterId": 2470,
+            "ParameterText": "Input Range (Current, Voltage)",
+            "ParameterType": "String",
+            "ValueId": "480587",
+            "ValueText": "0 ~ 10V (Configurable)"
+          },
+          {
+            "ParameterId": 2471,
+            "ParameterText": "Input Range (Additional)",
+            "ParameterType": "String",
+            "ValueId": "3025",
+            "ValueText": "0 ~ 100kOhm"
+          },
+          {
+            "ParameterId": 41,
+            "ParameterText": "Output Type",
+            "ParameterType": "String",
+            "ValueId": "420137",
+            "ValueText": "Voltage"
+          },
+          {
+            "ParameterId": 2462,
+            "ParameterText": "Output Range",
+            "ParameterType": "String",
+            "ValueId": "480587",
+            "ValueText": "0 ~ 10V (Configurable)"
+          },
+          {
+            "ParameterId": 1165,
+            "ParameterText": "Isolation",
+            "ParameterType": "String",
+            "ValueId": "480629",
+            "ValueText": "2500V (Test)"
+          },
+          {
+            "ParameterId": 5,
+            "ParameterText": "Features",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 276,
+            "ParameterText": "Voltage - Supply",
+            "ParameterType": "String",
+            "ValueId": "155281",
+            "ValueText": "24VDC"
+          },
+          {
+            "ParameterId": 69,
+            "ParameterText": "Mounting Type",
+            "ParameterType": "String",
+            "ValueId": "339014",
+            "ValueText": "DIN Rail"
+          },
+          {
+            "ParameterId": 258,
+            "ParameterText": "Termination Style",
+            "ParameterType": "String",
+            "ValueId": "406540",
+            "ValueText": "Spring Terminal"
+          },
+          {
+            "ParameterId": 252,
+            "ParameterText": "Operating Temperature",
+            "ParameterType": "String",
+            "ValueId": "156439",
+            "ValueText": "-25°C ~ 70°C"
+          }
+        ],
+        "BaseProductNumber": null,
+        "Category": {
+          "CategoryId": 34,
+          "ParentId": 0,
+          "Name": "Industrial Automation and Controls",
+          "ProductCount": 0,
+          "NewProductCount": 0,
+          "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/953/537/MFG_1528_997_tmb.jpg",
+          "SeoDescription": "The industrial automation and control product category encompasses a wide variety of products used for industrial machine and process control, monitoring, and operator interface applications. They typically feature a higher level of integration than similar component-level products, and are designed to be usable as functional building blocks without further manufacturing steps, such as assembly onto a printed circuit board.",
+          "ChildCategories": [
+            {
+              "CategoryId": 1020,
+              "ParentId": 34,
+              "Name": "Signal Conditioners and Isolators",
+              "ProductCount": 0,
+              "NewProductCount": 0,
+              "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/122/IAMA3535_tmb.jpg",
+              "SeoDescription": "Signal conditioners are used to convert signals to a different level or type often for sensor measurements. Isolators are devices that separate or isolate one circuit from another in regard to power. Types available include isolation amplifiers, passive isolators, signal conditioners, and more. These are defined by various parameters including input type, output type, isolation voltage, extra features and more.",
+              "ChildCategories": []
+            }
+          ]
+        },
+        "DateLastBuyChance": null,
+        "ManufacturerLeadWeeks": "12",
+        "ManufacturerPublicQuantity": 0,
+        "Series": {
+          "Id": 4549,
+          "Name": "857"
+        },
+        "ShippingInfo": null,
+        "Classifications": {
+          "ReachStatus": "REACH Affected",
+          "RohsStatus": "ROHS3 Compliant",
+          "MoistureSensitivityLevel": "Not Applicable",
+          "ExportControlClassNumber": "EAR99",
+          "HtsusCode": "8543.70.9810"
+        },
+        "OtherNames": [
+          "0857-412",
+          "2943-857-412",
+          "8570412",
+          "0857412",
+          "2943-857-412-ND",
+          "0857-0412",
+          "2946-857-412",
+          "857412"
+        ]
+      },
+      {
+        "Description": {
+          "ProductDescription": "ISOLATION AMPLIFIER; CURRENT AND",
+          "DetailedDescription": "Isolation Amplifier Current, Voltage DIN Rail"
+        },
+        "Manufacturer": {
+          "Id": 2946,
+          "Name": "WAGO Corporation"
+        },
+        "ManufacturerProductNumber": "857-424",
+        "UnitPrice": 537.65,
+        "ProductUrl": "https://www.digikey.com/en/products/detail/wago-corporation/857-424/15541134",
+        "DatasheetUrl": "https://wago.priintcloud.com/datasheets/857-424/en/",
+        "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4512/MFG_857-424.jpg",
+        "ProductVariations": [
+          {
+            "DigiKeyProductNumber": "2946-857-424-ND",
+            "PackageType": {
+              "Id": 62,
+              "Name": "Bag"
+            },
+            "StandardPricing": [
+              {
+                "BreakQuantity": 1,
+                "UnitPrice": 537.65,
+                "TotalPrice": 537.65
+              },
+              {
+                "BreakQuantity": 10,
+                "UnitPrice": 486.804,
+                "TotalPrice": 4868.04
+              }
+            ],
+            "MyPricing": [],
+            "MarketPlace": false,
+            "TariffActive": false,
+            "Supplier": {
+              "Id": 2946,
+              "Name": "WAGO Corporation"
+            },
+            "QuantityAvailableforPackageType": 5,
+            "MaxQuantityForDistribution": 0,
+            "MinimumOrderQuantity": 1,
+            "StandardPackage": 0,
+            "DigiReelFee": 0.0
+          }
+        ],
+        "QuantityAvailable": 5,
+        "ProductStatus": {
+          "Id": 0,
+          "Status": "Active"
+        },
+        "BackOrderNotAllowed": false,
+        "NormallyStocking": true,
+        "Discontinued": false,
+        "EndOfLife": false,
+        "Ncnr": false,
+        "PrimaryVideoUrl": null,
+        "Parameters": [
+          {
+            "ParameterId": 183,
+            "ParameterText": "Type",
+            "ParameterType": "String",
+            "ValueId": "361619",
+            "ValueText": "Isolation Amplifier"
+          },
+          {
+            "ParameterId": 474,
+            "ParameterText": "Input Type",
+            "ParameterType": "String",
+            "ValueId": "336139",
+            "ValueText": "Current, Voltage"
+          },
+          {
+            "ParameterId": 2470,
+            "ParameterText": "Input Range (Current, Voltage)",
+            "ParameterType": "String",
+            "ValueId": "480590",
+            "ValueText": "0 ~ 20mA, 0 ~ 10V (Configurable)"
+          },
+          {
+            "ParameterId": 2471,
+            "ParameterText": "Input Range (Additional)",
+            "ParameterType": "String",
+            "ValueId": "694625",
+            "ValueText": "0 ~ 50Ohm"
+          },
+          {
+            "ParameterId": 41,
+            "ParameterText": "Output Type",
+            "ParameterType": "String",
+            "ValueId": "336139",
+            "ValueText": "Current, Voltage"
+          },
+          {
+            "ParameterId": 2462,
+            "ParameterText": "Output Range",
+            "ParameterType": "String",
+            "ValueId": "480590",
+            "ValueText": "0 ~ 20mA, 0 ~ 10V (Configurable)"
+          },
+          {
+            "ParameterId": 1165,
+            "ParameterText": "Isolation",
+            "ParameterType": "String",
+            "ValueId": "480632",
+            "ValueText": "3000V (Test)"
+          },
+          {
+            "ParameterId": 5,
+            "ParameterText": "Features",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 276,
+            "ParameterText": "Voltage - Supply",
+            "ParameterType": "String",
+            "ValueId": "155281",
+            "ValueText": "24VDC"
+          },
+          {
+            "ParameterId": 69,
+            "ParameterText": "Mounting Type",
+            "ParameterType": "String",
+            "ValueId": "339014",
+            "ValueText": "DIN Rail"
+          },
+          {
+            "ParameterId": 258,
+            "ParameterText": "Termination Style",
+            "ParameterType": "String",
+            "ValueId": "406540",
+            "ValueText": "Spring Terminal"
+          },
+          {
+            "ParameterId": 252,
+            "ParameterText": "Operating Temperature",
+            "ParameterType": "String",
+            "ValueId": "212585",
+            "ValueText": "-40°C ~ 70°C"
+          }
+        ],
+        "BaseProductNumber": null,
+        "Category": {
+          "CategoryId": 34,
+          "ParentId": 0,
+          "Name": "Industrial Automation and Controls",
+          "ProductCount": 0,
+          "NewProductCount": 0,
+          "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/953/537/MFG_1528_997_tmb.jpg",
+          "SeoDescription": "The industrial automation and control product category encompasses a wide variety of products used for industrial machine and process control, monitoring, and operator interface applications. They typically feature a higher level of integration than similar component-level products, and are designed to be usable as functional building blocks without further manufacturing steps, such as assembly onto a printed circuit board.",
+          "ChildCategories": [
+            {
+              "CategoryId": 1020,
+              "ParentId": 34,
+              "Name": "Signal Conditioners and Isolators",
+              "ProductCount": 0,
+              "NewProductCount": 0,
+              "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/122/IAMA3535_tmb.jpg",
+              "SeoDescription": "Signal conditioners are used to convert signals to a different level or type often for sensor measurements. Isolators are devices that separate or isolate one circuit from another in regard to power. Types available include isolation amplifiers, passive isolators, signal conditioners, and more. These are defined by various parameters including input type, output type, isolation voltage, extra features and more.",
+              "ChildCategories": []
+            }
+          ]
+        },
+        "DateLastBuyChance": null,
+        "ManufacturerLeadWeeks": "12",
+        "ManufacturerPublicQuantity": 0,
+        "Series": {
+          "Id": 4549,
+          "Name": "857"
+        },
+        "ShippingInfo": null,
+        "Classifications": {
+          "ReachStatus": "REACH Unaffected",
+          "RohsStatus": "ROHS3 Compliant",
+          "MoistureSensitivityLevel": "Not Applicable",
+          "ExportControlClassNumber": "EAR99",
+          "HtsusCode": "8543.70.9860"
+        },
+        "OtherNames": [
+          "0857-424",
+          "0857424",
+          "60333875",
+          "0857-0424",
+          "2943-857-424",
+          "857424",
+          "2946-857-424",
+          "2943-857-424-ND"
+        ]
+      },
+      {
+        "Description": {
+          "ProductDescription": "ISOLATION AMPLIFIER UI UI (BIP)",
+          "DetailedDescription": "Isolation Amplifier Current, Voltage DIN Rail"
+        },
+        "Manufacturer": {
+          "Id": 2946,
+          "Name": "WAGO Corporation"
+        },
+        "ManufacturerProductNumber": "857-403",
+        "UnitPrice": 582.33,
+        "ProductUrl": "https://www.digikey.com/en/products/detail/wago-corporation/857-403/15552331",
+        "DatasheetUrl": "https://wago.priintcloud.com/datasheets/857-403/en/",
+        "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4505/MFG_857-403.jpg",
+        "ProductVariations": [
+          {
+            "DigiKeyProductNumber": "2946-857-403-ND",
+            "PackageType": {
+              "Id": 3,
+              "Name": "Bulk"
+            },
+            "StandardPricing": [
+              {
+                "BreakQuantity": 1,
+                "UnitPrice": 582.33,
+                "TotalPrice": 582.33
+              },
+              {
+                "BreakQuantity": 10,
+                "UnitPrice": 527.254,
+                "TotalPrice": 5272.54
+              }
+            ],
+            "MyPricing": [],
+            "MarketPlace": false,
+            "TariffActive": false,
+            "Supplier": {
+              "Id": 2946,
+              "Name": "WAGO Corporation"
+            },
+            "QuantityAvailableforPackageType": 6,
+            "MaxQuantityForDistribution": 999999999,
+            "MinimumOrderQuantity": 1,
+            "StandardPackage": 1,
+            "DigiReelFee": 0.0
+          }
+        ],
+        "QuantityAvailable": 6,
+        "ProductStatus": {
+          "Id": 0,
+          "Status": "Active"
+        },
+        "BackOrderNotAllowed": false,
+        "NormallyStocking": true,
+        "Discontinued": false,
+        "EndOfLife": false,
+        "Ncnr": false,
+        "PrimaryVideoUrl": null,
+        "Parameters": [
+          {
+            "ParameterId": 183,
+            "ParameterText": "Type",
+            "ParameterType": "String",
+            "ValueId": "361619",
+            "ValueText": "Isolation Amplifier"
+          },
+          {
+            "ParameterId": 474,
+            "ParameterText": "Input Type",
+            "ParameterType": "String",
+            "ValueId": "336139",
+            "ValueText": "Current, Voltage"
+          },
+          {
+            "ParameterId": 2470,
+            "ParameterText": "Input Range (Current, Voltage)",
+            "ParameterType": "String",
+            "ValueId": "480579",
+            "ValueText": "±100mA, ±500V (Configurable)"
+          },
+          {
+            "ParameterId": 2471,
+            "ParameterText": "Input Range (Additional)",
+            "ParameterType": "String",
+            "ValueId": "3160",
+            "ValueText": "0 ~ 1MOhm"
+          },
+          {
+            "ParameterId": 41,
+            "ParameterText": "Output Type",
+            "ParameterType": "String",
+            "ValueId": "336139",
+            "ValueText": "Current, Voltage"
+          },
+          {
+            "ParameterId": 2462,
+            "ParameterText": "Output Range",
+            "ParameterType": "String",
+            "ValueId": "473637",
+            "ValueText": "±20mA, ±10V (Configurable)"
+          },
+          {
+            "ParameterId": 1165,
+            "ParameterText": "Isolation",
+            "ParameterType": "String",
+            "ValueId": "480629",
+            "ValueText": "2500V (Test)"
+          },
+          {
+            "ParameterId": 5,
+            "ParameterText": "Features",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 276,
+            "ParameterText": "Voltage - Supply",
+            "ParameterType": "String",
+            "ValueId": "155281",
+            "ValueText": "24VDC"
+          },
+          {
+            "ParameterId": 69,
+            "ParameterText": "Mounting Type",
+            "ParameterType": "String",
+            "ValueId": "339014",
+            "ValueText": "DIN Rail"
+          },
+          {
+            "ParameterId": 258,
+            "ParameterText": "Termination Style",
+            "ParameterType": "String",
+            "ValueId": "406540",
+            "ValueText": "Spring Terminal"
+          },
+          {
+            "ParameterId": 252,
+            "ParameterText": "Operating Temperature",
+            "ParameterType": "String",
+            "ValueId": "156439",
+            "ValueText": "-25°C ~ 70°C"
+          }
+        ],
+        "BaseProductNumber": null,
+        "Category": {
+          "CategoryId": 34,
+          "ParentId": 0,
+          "Name": "Industrial Automation and Controls",
+          "ProductCount": 0,
+          "NewProductCount": 0,
+          "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/953/537/MFG_1528_997_tmb.jpg",
+          "SeoDescription": "The industrial automation and control product category encompasses a wide variety of products used for industrial machine and process control, monitoring, and operator interface applications. They typically feature a higher level of integration than similar component-level products, and are designed to be usable as functional building blocks without further manufacturing steps, such as assembly onto a printed circuit board.",
+          "ChildCategories": [
+            {
+              "CategoryId": 1020,
+              "ParentId": 34,
+              "Name": "Signal Conditioners and Isolators",
+              "ProductCount": 0,
+              "NewProductCount": 0,
+              "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/122/IAMA3535_tmb.jpg",
+              "SeoDescription": "Signal conditioners are used to convert signals to a different level or type often for sensor measurements. Isolators are devices that separate or isolate one circuit from another in regard to power. Types available include isolation amplifiers, passive isolators, signal conditioners, and more. These are defined by various parameters including input type, output type, isolation voltage, extra features and more.",
+              "ChildCategories": []
+            }
+          ]
+        },
+        "DateLastBuyChance": null,
+        "ManufacturerLeadWeeks": "12",
+        "ManufacturerPublicQuantity": 0,
+        "Series": {
+          "Id": 4549,
+          "Name": "857"
+        },
+        "ShippingInfo": null,
+        "Classifications": {
+          "ReachStatus": "REACH Unknown",
+          "RohsStatus": "ROHS3 Compliant",
+          "MoistureSensitivityLevel": "Not Applicable",
+          "ExportControlClassNumber": "EAR99",
+          "HtsusCode": "8543.70.9810"
+        },
+        "OtherNames": [
+          "0857403",
+          "0857-403",
+          "0857-0403",
+          "2943-857-403",
+          "2946-857-403",
+          "60449357",
+          "2943-857-403-ND",
+          "857403"
+        ]
+      },
+      {
+        "Description": {
+          "ProductDescription": "ISO-AMP UI(BIP) UI(BIP)",
+          "DetailedDescription": "Isolation Amplifier Current, Voltage DIN Rail"
+        },
+        "Manufacturer": {
+          "Id": 2946,
+          "Name": "WAGO Corporation"
+        },
+        "ManufacturerProductNumber": "2857-401",
+        "UnitPrice": 765.83,
+        "ProductUrl": "https://www.digikey.com/en/products/detail/wago-corporation/2857-401/15603832",
+        "DatasheetUrl": "https://wago.priintcloud.com/datasheets/2857-401/en/",
+        "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4186/MFG_2857-401.jpg",
+        "ProductVariations": [
+          {
+            "DigiKeyProductNumber": "2946-2857-401-ND",
+            "PackageType": {
+              "Id": 62,
+              "Name": "Bag"
+            },
+            "StandardPricing": [
+              {
+                "BreakQuantity": 1,
+                "UnitPrice": 765.83,
+                "TotalPrice": 765.83
+              },
+              {
+                "BreakQuantity": 10,
+                "UnitPrice": 693.384,
+                "TotalPrice": 6933.84
+              }
+            ],
+            "MyPricing": [],
+            "MarketPlace": false,
+            "TariffActive": false,
+            "Supplier": {
+              "Id": 2946,
+              "Name": "WAGO Corporation"
+            },
+            "QuantityAvailableforPackageType": 2,
+            "MaxQuantityForDistribution": 999999999,
+            "MinimumOrderQuantity": 1,
+            "StandardPackage": 1,
+            "DigiReelFee": 0.0
+          }
+        ],
+        "QuantityAvailable": 2,
+        "ProductStatus": {
+          "Id": 0,
+          "Status": "Active"
+        },
+        "BackOrderNotAllowed": false,
+        "NormallyStocking": true,
+        "Discontinued": false,
+        "EndOfLife": false,
+        "Ncnr": false,
+        "PrimaryVideoUrl": null,
+        "Parameters": [
+          {
+            "ParameterId": 183,
+            "ParameterText": "Type",
+            "ParameterType": "String",
+            "ValueId": "361619",
+            "ValueText": "Isolation Amplifier"
+          },
+          {
+            "ParameterId": 474,
+            "ParameterText": "Input Type",
+            "ParameterType": "String",
+            "ValueId": "336139",
+            "ValueText": "Current, Voltage"
+          },
+          {
+            "ParameterId": 2470,
+            "ParameterText": "Input Range (Current, Voltage)",
+            "ParameterType": "String",
+            "ValueId": "694609",
+            "ValueText": "±100mA, 0 ~ 220V (Configurable)"
+          },
+          {
+            "ParameterId": 2471,
+            "ParameterText": "Input Range (Additional)",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 41,
+            "ParameterText": "Output Type",
+            "ParameterType": "String",
+            "ValueId": "336139",
+            "ValueText": "Current, Voltage"
+          },
+          {
+            "ParameterId": 2462,
+            "ParameterText": "Output Range",
+            "ParameterType": "String",
+            "ValueId": "473637",
+            "ValueText": "±20mA, ±10V (Configurable)"
+          },
+          {
+            "ParameterId": 1165,
+            "ParameterText": "Isolation",
+            "ParameterType": "String",
+            "ValueId": "480631",
+            "ValueText": "4000V (Test)"
+          },
+          {
+            "ParameterId": 5,
+            "ParameterText": "Features",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 276,
+            "ParameterText": "Voltage - Supply",
+            "ParameterType": "String",
+            "ValueId": "155281",
+            "ValueText": "24VDC"
+          },
+          {
+            "ParameterId": 69,
+            "ParameterText": "Mounting Type",
+            "ParameterType": "String",
+            "ValueId": "339014",
+            "ValueText": "DIN Rail"
+          },
+          {
+            "ParameterId": 258,
+            "ParameterText": "Termination Style",
+            "ParameterType": "String",
+            "ValueId": "406540",
+            "ValueText": "Spring Terminal"
+          },
+          {
+            "ParameterId": 252,
+            "ParameterText": "Operating Temperature",
+            "ParameterType": "String",
+            "ValueId": "212585",
+            "ValueText": "-40°C ~ 70°C"
+          }
+        ],
+        "BaseProductNumber": null,
+        "Category": {
+          "CategoryId": 34,
+          "ParentId": 0,
+          "Name": "Industrial Automation and Controls",
+          "ProductCount": 0,
+          "NewProductCount": 0,
+          "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/953/537/MFG_1528_997_tmb.jpg",
+          "SeoDescription": "The industrial automation and control product category encompasses a wide variety of products used for industrial machine and process control, monitoring, and operator interface applications. They typically feature a higher level of integration than similar component-level products, and are designed to be usable as functional building blocks without further manufacturing steps, such as assembly onto a printed circuit board.",
+          "ChildCategories": [
+            {
+              "CategoryId": 1020,
+              "ParentId": 34,
+              "Name": "Signal Conditioners and Isolators",
+              "ProductCount": 0,
+              "NewProductCount": 0,
+              "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/122/IAMA3535_tmb.jpg",
+              "SeoDescription": "Signal conditioners are used to convert signals to a different level or type often for sensor measurements. Isolators are devices that separate or isolate one circuit from another in regard to power. Types available include isolation amplifiers, passive isolators, signal conditioners, and more. These are defined by various parameters including input type, output type, isolation voltage, extra features and more.",
+              "ChildCategories": []
+            }
+          ]
+        },
+        "DateLastBuyChance": null,
+        "ManufacturerLeadWeeks": "12",
+        "ManufacturerPublicQuantity": 0,
+        "Series": {
+          "Id": 101385,
+          "Name": "2857"
+        },
+        "ShippingInfo": null,
+        "Classifications": {
+          "ReachStatus": "REACH Affected",
+          "RohsStatus": "ROHS3 Compliant",
+          "MoistureSensitivityLevel": "Not Applicable",
+          "ExportControlClassNumber": null,
+          "HtsusCode": null
+        },
+        "OtherNames": [
+          "2943-2857-401",
+          "2857401",
+          "2946-2857-401",
+          "02857-401",
+          "02857401",
+          "28570401",
+          "2943-2857-401-ND",
+          "2857-0401"
+        ]
+      },
+      {
+        "Description": {
+          "ProductDescription": "ISOLATION AMPLIFIER; CURRENT INP",
+          "DetailedDescription": "Isolation Amplifier Current DIN Rail"
+        },
+        "Manufacturer": {
+          "Id": 2946,
+          "Name": "WAGO Corporation"
+        },
+        "ManufacturerProductNumber": "857-420",
+        "UnitPrice": 307.28,
+        "ProductUrl": "https://www.digikey.com/en/products/detail/wago-corporation/857-420/15522583",
+        "DatasheetUrl": "https://wago.priintcloud.com/datasheets/857-420/en/",
+        "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4150/MFG_857-420.jpg",
+        "ProductVariations": [
+          {
+            "DigiKeyProductNumber": "2946-857-420-ND",
+            "PackageType": {
+              "Id": 62,
+              "Name": "Bag"
+            },
+            "StandardPricing": [
+              {
+                "BreakQuantity": 1,
+                "UnitPrice": 307.28,
+                "TotalPrice": 307.28
+              },
+              {
+                "BreakQuantity": 10,
+                "UnitPrice": 278.225,
+                "TotalPrice": 2782.25
+              },
+              {
+                "BreakQuantity": 25,
+                "UnitPrice": 267.4376,
+                "TotalPrice": 6685.94
+              }
+            ],
+            "MyPricing": [],
+            "MarketPlace": false,
+            "TariffActive": false,
+            "Supplier": {
+              "Id": 2946,
+              "Name": "WAGO Corporation"
+            },
+            "QuantityAvailableforPackageType": 2,
+            "MaxQuantityForDistribution": 999999999,
+            "MinimumOrderQuantity": 1,
+            "StandardPackage": 1,
+            "DigiReelFee": 0.0
+          }
+        ],
+        "QuantityAvailable": 2,
+        "ProductStatus": {
+          "Id": 0,
+          "Status": "Active"
+        },
+        "BackOrderNotAllowed": false,
+        "NormallyStocking": true,
+        "Discontinued": false,
+        "EndOfLife": false,
+        "Ncnr": false,
+        "PrimaryVideoUrl": null,
+        "Parameters": [
+          {
+            "ParameterId": 183,
+            "ParameterText": "Type",
+            "ParameterType": "String",
+            "ValueId": "361619",
+            "ValueText": "Isolation Amplifier"
+          },
+          {
+            "ParameterId": 474,
+            "ParameterText": "Input Type",
+            "ParameterType": "String",
+            "ValueId": "335810",
+            "ValueText": "Current"
+          },
+          {
+            "ParameterId": 2470,
+            "ParameterText": "Input Range (Current, Voltage)",
+            "ParameterType": "String",
+            "ValueId": "480588",
+            "ValueText": "0 ~ 20mA (Configurable)"
+          },
+          {
+            "ParameterId": 2471,
+            "ParameterText": "Input Range (Additional)",
+            "ParameterType": "String",
+            "ValueId": "694625",
+            "ValueText": "0 ~ 50Ohm"
+          },
+          {
+            "ParameterId": 41,
+            "ParameterText": "Output Type",
+            "ParameterType": "String",
+            "ValueId": "336139",
+            "ValueText": "Current, Voltage"
+          },
+          {
+            "ParameterId": 2462,
+            "ParameterText": "Output Range",
+            "ParameterType": "String",
+            "ValueId": "480590",
+            "ValueText": "0 ~ 20mA, 0 ~ 10V (Configurable)"
+          },
+          {
+            "ParameterId": 1165,
+            "ParameterText": "Isolation",
+            "ParameterType": "String",
+            "ValueId": "480629",
+            "ValueText": "2500V (Test)"
+          },
+          {
+            "ParameterId": 5,
+            "ParameterText": "Features",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 276,
+            "ParameterText": "Voltage - Supply",
+            "ParameterType": "String",
+            "ValueId": "155281",
+            "ValueText": "24VDC"
+          },
+          {
+            "ParameterId": 69,
+            "ParameterText": "Mounting Type",
+            "ParameterType": "String",
+            "ValueId": "339014",
+            "ValueText": "DIN Rail"
+          },
+          {
+            "ParameterId": 258,
+            "ParameterText": "Termination Style",
+            "ParameterType": "String",
+            "ValueId": "406540",
+            "ValueText": "Spring Terminal"
+          },
+          {
+            "ParameterId": 252,
+            "ParameterText": "Operating Temperature",
+            "ParameterType": "String",
+            "ValueId": "156439",
+            "ValueText": "-25°C ~ 70°C"
+          }
+        ],
+        "BaseProductNumber": null,
+        "Category": {
+          "CategoryId": 34,
+          "ParentId": 0,
+          "Name": "Industrial Automation and Controls",
+          "ProductCount": 0,
+          "NewProductCount": 0,
+          "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/953/537/MFG_1528_997_tmb.jpg",
+          "SeoDescription": "The industrial automation and control product category encompasses a wide variety of products used for industrial machine and process control, monitoring, and operator interface applications. They typically feature a higher level of integration than similar component-level products, and are designed to be usable as functional building blocks without further manufacturing steps, such as assembly onto a printed circuit board.",
+          "ChildCategories": [
+            {
+              "CategoryId": 1020,
+              "ParentId": 34,
+              "Name": "Signal Conditioners and Isolators",
+              "ProductCount": 0,
+              "NewProductCount": 0,
+              "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/122/IAMA3535_tmb.jpg",
+              "SeoDescription": "Signal conditioners are used to convert signals to a different level or type often for sensor measurements. Isolators are devices that separate or isolate one circuit from another in regard to power. Types available include isolation amplifiers, passive isolators, signal conditioners, and more. These are defined by various parameters including input type, output type, isolation voltage, extra features and more.",
+              "ChildCategories": []
+            }
+          ]
+        },
+        "DateLastBuyChance": null,
+        "ManufacturerLeadWeeks": "12",
+        "ManufacturerPublicQuantity": 0,
+        "Series": {
+          "Id": 4549,
+          "Name": "857"
+        },
+        "ShippingInfo": null,
+        "Classifications": {
+          "ReachStatus": "REACH Unknown",
+          "RohsStatus": "ROHS3 Compliant",
+          "MoistureSensitivityLevel": "Not Applicable",
+          "ExportControlClassNumber": "EAR99",
+          "HtsusCode": "8543.70.9860"
+        },
+        "OtherNames": [
+          "2943-857-420-ND",
+          "2943-857-420",
+          "8570420",
+          "0857420",
+          "0857-0420",
+          "857420",
+          "2946-857-420",
+          "0857-420"
+        ]
+      },
+      {
+        "Description": {
+          "ProductDescription": "ISOLATION AMPLIFIER; CURRENT INP",
+          "DetailedDescription": "Isolation Amplifier Current DIN Rail"
+        },
+        "Manufacturer": {
+          "Id": 2946,
+          "Name": "WAGO Corporation"
+        },
+        "ManufacturerProductNumber": "857-411",
+        "UnitPrice": 290.81,
+        "ProductUrl": "https://www.digikey.com/en/products/detail/wago-corporation/857-411/15550289",
+        "DatasheetUrl": "https://wago.priintcloud.com/datasheets/857-411/en/",
+        "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4332/MFG_857-411.jpg",
+        "ProductVariations": [
+          {
+            "DigiKeyProductNumber": "2946-857-411-ND",
+            "PackageType": {
+              "Id": 62,
+              "Name": "Bag"
+            },
+            "StandardPricing": [
+              {
+                "BreakQuantity": 1,
+                "UnitPrice": 290.81,
+                "TotalPrice": 290.81
+              },
+              {
+                "BreakQuantity": 10,
+                "UnitPrice": 263.314,
+                "TotalPrice": 2633.14
+              },
+              {
+                "BreakQuantity": 25,
+                "UnitPrice": 253.1048,
+                "TotalPrice": 6327.62
+              }
+            ],
+            "MyPricing": [],
+            "MarketPlace": false,
+            "TariffActive": false,
+            "Supplier": {
+              "Id": 2946,
+              "Name": "WAGO Corporation"
+            },
+            "QuantityAvailableforPackageType": 0,
+            "MaxQuantityForDistribution": 999999999,
+            "MinimumOrderQuantity": 1,
+            "StandardPackage": 1,
+            "DigiReelFee": 0.0
+          }
+        ],
+        "QuantityAvailable": 0,
+        "ProductStatus": {
+          "Id": 0,
+          "Status": "Active"
+        },
+        "BackOrderNotAllowed": false,
+        "NormallyStocking": true,
+        "Discontinued": false,
+        "EndOfLife": false,
+        "Ncnr": false,
+        "PrimaryVideoUrl": null,
+        "Parameters": [
+          {
+            "ParameterId": 183,
+            "ParameterText": "Type",
+            "ParameterType": "String",
+            "ValueId": "361619",
+            "ValueText": "Isolation Amplifier"
+          },
+          {
+            "ParameterId": 474,
+            "ParameterText": "Input Type",
+            "ParameterType": "String",
+            "ValueId": "335810",
+            "ValueText": "Current"
+          },
+          {
+            "ParameterId": 2470,
+            "ParameterText": "Input Range (Current, Voltage)",
+            "ParameterType": "String",
+            "ValueId": "480588",
+            "ValueText": "0 ~ 20mA (Configurable)"
+          },
+          {
+            "ParameterId": 2471,
+            "ParameterText": "Input Range (Additional)",
+            "ParameterType": "String",
+            "ValueId": "694625",
+            "ValueText": "0 ~ 50Ohm"
+          },
+          {
+            "ParameterId": 41,
+            "ParameterText": "Output Type",
+            "ParameterType": "String",
+            "ValueId": "335810",
+            "ValueText": "Current"
+          },
+          {
+            "ParameterId": 2462,
+            "ParameterText": "Output Range",
+            "ParameterType": "String",
+            "ValueId": "480588",
+            "ValueText": "0 ~ 20mA (Configurable)"
+          },
+          {
+            "ParameterId": 1165,
+            "ParameterText": "Isolation",
+            "ParameterType": "String",
+            "ValueId": "480629",
+            "ValueText": "2500V (Test)"
+          },
+          {
+            "ParameterId": 5,
+            "ParameterText": "Features",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 276,
+            "ParameterText": "Voltage - Supply",
+            "ParameterType": "String",
+            "ValueId": "155281",
+            "ValueText": "24VDC"
+          },
+          {
+            "ParameterId": 69,
+            "ParameterText": "Mounting Type",
+            "ParameterType": "String",
+            "ValueId": "339014",
+            "ValueText": "DIN Rail"
+          },
+          {
+            "ParameterId": 258,
+            "ParameterText": "Termination Style",
+            "ParameterType": "String",
+            "ValueId": "406540",
+            "ValueText": "Spring Terminal"
+          },
+          {
+            "ParameterId": 252,
+            "ParameterText": "Operating Temperature",
+            "ParameterType": "String",
+            "ValueId": "156439",
+            "ValueText": "-25°C ~ 70°C"
+          }
+        ],
+        "BaseProductNumber": null,
+        "Category": {
+          "CategoryId": 34,
+          "ParentId": 0,
+          "Name": "Industrial Automation and Controls",
+          "ProductCount": 0,
+          "NewProductCount": 0,
+          "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/953/537/MFG_1528_997_tmb.jpg",
+          "SeoDescription": "The industrial automation and control product category encompasses a wide variety of products used for industrial machine and process control, monitoring, and operator interface applications. They typically feature a higher level of integration than similar component-level products, and are designed to be usable as functional building blocks without further manufacturing steps, such as assembly onto a printed circuit board.",
+          "ChildCategories": [
+            {
+              "CategoryId": 1020,
+              "ParentId": 34,
+              "Name": "Signal Conditioners and Isolators",
+              "ProductCount": 0,
+              "NewProductCount": 0,
+              "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/122/IAMA3535_tmb.jpg",
+              "SeoDescription": "Signal conditioners are used to convert signals to a different level or type often for sensor measurements. Isolators are devices that separate or isolate one circuit from another in regard to power. Types available include isolation amplifiers, passive isolators, signal conditioners, and more. These are defined by various parameters including input type, output type, isolation voltage, extra features and more.",
+              "ChildCategories": []
+            }
+          ]
+        },
+        "DateLastBuyChance": null,
+        "ManufacturerLeadWeeks": "12",
+        "ManufacturerPublicQuantity": 0,
+        "Series": {
+          "Id": 4549,
+          "Name": "857"
+        },
+        "ShippingInfo": null,
+        "Classifications": {
+          "ReachStatus": "REACH Affected",
+          "RohsStatus": "ROHS3 Compliant",
+          "MoistureSensitivityLevel": "Not Applicable",
+          "ExportControlClassNumber": "EAR99",
+          "HtsusCode": "8543.70.9860"
+        },
+        "OtherNames": [
+          "2943-857-411",
+          "2943-857-411-ND",
+          "0857-411",
+          "8570411",
+          "0857411",
+          "2946-857-411",
+          "0857-0411",
+          "857411"
+        ]
+      },
+      {
+        "Description": {
+          "ProductDescription": "ISOLATION AMPLIFIER; CURRENT INP",
+          "DetailedDescription": "Isolation Amplifier Current DIN Rail"
+        },
+        "Manufacturer": {
+          "Id": 2946,
+          "Name": "WAGO Corporation"
+        },
+        "ManufacturerProductNumber": "857-416",
+        "UnitPrice": 281.99,
+        "ProductUrl": "https://www.digikey.com/en/products/detail/wago-corporation/857-416/15558125",
+        "DatasheetUrl": "https://wago.priintcloud.com/datasheets/857-416/en/",
+        "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4364/MFG_857-416.jpg",
+        "ProductVariations": [
+          {
+            "DigiKeyProductNumber": "2946-857-416-ND",
+            "PackageType": {
+              "Id": 62,
+              "Name": "Bag"
+            },
+            "StandardPricing": [
+              {
+                "BreakQuantity": 1,
+                "UnitPrice": 281.99,
+                "TotalPrice": 281.99
+              },
+              {
+                "BreakQuantity": 10,
+                "UnitPrice": 255.331,
+                "TotalPrice": 2553.31
+              },
+              {
+                "BreakQuantity": 25,
+                "UnitPrice": 245.4328,
+                "TotalPrice": 6135.82
+              }
+            ],
+            "MyPricing": [],
+            "MarketPlace": false,
+            "TariffActive": false,
+            "Supplier": {
+              "Id": 2946,
+              "Name": "WAGO Corporation"
+            },
+            "QuantityAvailableforPackageType": 1,
+            "MaxQuantityForDistribution": 999999999,
+            "MinimumOrderQuantity": 1,
+            "StandardPackage": 1,
+            "DigiReelFee": 0.0
+          }
+        ],
+        "QuantityAvailable": 1,
+        "ProductStatus": {
+          "Id": 0,
+          "Status": "Active"
+        },
+        "BackOrderNotAllowed": false,
+        "NormallyStocking": true,
+        "Discontinued": false,
+        "EndOfLife": false,
+        "Ncnr": false,
+        "PrimaryVideoUrl": null,
+        "Parameters": [
+          {
+            "ParameterId": 183,
+            "ParameterText": "Type",
+            "ParameterType": "String",
+            "ValueId": "361619",
+            "ValueText": "Isolation Amplifier"
+          },
+          {
+            "ParameterId": 474,
+            "ParameterText": "Input Type",
+            "ParameterType": "String",
+            "ValueId": "335810",
+            "ValueText": "Current"
+          },
+          {
+            "ParameterId": 2470,
+            "ParameterText": "Input Range (Current, Voltage)",
+            "ParameterType": "String",
+            "ValueId": "203342",
+            "ValueText": "4 ~ 20mA"
+          },
+          {
+            "ParameterId": 2471,
+            "ParameterText": "Input Range (Additional)",
+            "ParameterType": "String",
+            "ValueId": "694625",
+            "ValueText": "0 ~ 50Ohm"
+          },
+          {
+            "ParameterId": 41,
+            "ParameterText": "Output Type",
+            "ParameterType": "String",
+            "ValueId": "420137",
+            "ValueText": "Voltage"
+          },
+          {
+            "ParameterId": 2462,
+            "ParameterText": "Output Range",
+            "ParameterType": "String",
+            "ValueId": "3050",
+            "ValueText": "0 ~ 10V"
+          },
+          {
+            "ParameterId": 1165,
+            "ParameterText": "Isolation",
+            "ParameterType": "String",
+            "ValueId": "480629",
+            "ValueText": "2500V (Test)"
+          },
+          {
+            "ParameterId": 5,
+            "ParameterText": "Features",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 276,
+            "ParameterText": "Voltage - Supply",
+            "ParameterType": "String",
+            "ValueId": "155281",
+            "ValueText": "24VDC"
+          },
+          {
+            "ParameterId": 69,
+            "ParameterText": "Mounting Type",
+            "ParameterType": "String",
+            "ValueId": "339014",
+            "ValueText": "DIN Rail"
+          },
+          {
+            "ParameterId": 258,
+            "ParameterText": "Termination Style",
+            "ParameterType": "String",
+            "ValueId": "406540",
+            "ValueText": "Spring Terminal"
+          },
+          {
+            "ParameterId": 252,
+            "ParameterText": "Operating Temperature",
+            "ParameterType": "String",
+            "ValueId": "156439",
+            "ValueText": "-25°C ~ 70°C"
+          }
+        ],
+        "BaseProductNumber": null,
+        "Category": {
+          "CategoryId": 34,
+          "ParentId": 0,
+          "Name": "Industrial Automation and Controls",
+          "ProductCount": 0,
+          "NewProductCount": 0,
+          "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/953/537/MFG_1528_997_tmb.jpg",
+          "SeoDescription": "The industrial automation and control product category encompasses a wide variety of products used for industrial machine and process control, monitoring, and operator interface applications. They typically feature a higher level of integration than similar component-level products, and are designed to be usable as functional building blocks without further manufacturing steps, such as assembly onto a printed circuit board.",
+          "ChildCategories": [
+            {
+              "CategoryId": 1020,
+              "ParentId": 34,
+              "Name": "Signal Conditioners and Isolators",
+              "ProductCount": 0,
+              "NewProductCount": 0,
+              "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/122/IAMA3535_tmb.jpg",
+              "SeoDescription": "Signal conditioners are used to convert signals to a different level or type often for sensor measurements. Isolators are devices that separate or isolate one circuit from another in regard to power. Types available include isolation amplifiers, passive isolators, signal conditioners, and more. These are defined by various parameters including input type, output type, isolation voltage, extra features and more.",
+              "ChildCategories": []
+            }
+          ]
+        },
+        "DateLastBuyChance": null,
+        "ManufacturerLeadWeeks": "12",
+        "ManufacturerPublicQuantity": 0,
+        "Series": {
+          "Id": 4549,
+          "Name": "857"
+        },
+        "ShippingInfo": null,
+        "Classifications": {
+          "ReachStatus": "REACH Affected",
+          "RohsStatus": "ROHS3 Compliant",
+          "MoistureSensitivityLevel": "Not Applicable",
+          "ExportControlClassNumber": "EAR99",
+          "HtsusCode": "8543.70.9860"
+        },
+        "OtherNames": [
+          "0857416",
+          "0857-0416",
+          "0857-416",
+          "2943-857-416",
+          "2946-857-416",
+          "8570416",
+          "2943-857-416-ND",
+          "857416"
+        ]
+      },
+      {
+        "Description": {
+          "ProductDescription": "ISOLATION AMPLIFIER; VOLTAGE INP",
+          "DetailedDescription": "Isolation Amplifier Voltage DIN Rail"
+        },
+        "Manufacturer": {
+          "Id": 2946,
+          "Name": "WAGO Corporation"
+        },
+        "ManufacturerProductNumber": "857-414",
+        "UnitPrice": 281.99,
+        "ProductUrl": "https://www.digikey.com/en/products/detail/wago-corporation/857-414/15542417",
+        "DatasheetUrl": "https://wago.priintcloud.com/datasheets/857-414/en/",
+        "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4534/MFG_857-414.jpg",
+        "ProductVariations": [
+          {
+            "DigiKeyProductNumber": "2946-857-414-ND",
+            "PackageType": {
+              "Id": 62,
+              "Name": "Bag"
+            },
+            "StandardPricing": [
+              {
+                "BreakQuantity": 1,
+                "UnitPrice": 281.99,
+                "TotalPrice": 281.99
+              },
+              {
+                "BreakQuantity": 10,
+                "UnitPrice": 255.331,
+                "TotalPrice": 2553.31
+              },
+              {
+                "BreakQuantity": 25,
+                "UnitPrice": 245.4328,
+                "TotalPrice": 6135.82
+              }
+            ],
+            "MyPricing": [],
+            "MarketPlace": false,
+            "TariffActive": false,
+            "Supplier": {
+              "Id": 2946,
+              "Name": "WAGO Corporation"
+            },
+            "QuantityAvailableforPackageType": 0,
+            "MaxQuantityForDistribution": 999999999,
+            "MinimumOrderQuantity": 1,
+            "StandardPackage": 1,
+            "DigiReelFee": 0.0
+          }
+        ],
+        "QuantityAvailable": 0,
+        "ProductStatus": {
+          "Id": 0,
+          "Status": "Active"
+        },
+        "BackOrderNotAllowed": false,
+        "NormallyStocking": true,
+        "Discontinued": false,
+        "EndOfLife": false,
+        "Ncnr": false,
+        "PrimaryVideoUrl": null,
+        "Parameters": [
+          {
+            "ParameterId": 183,
+            "ParameterText": "Type",
+            "ParameterType": "String",
+            "ValueId": "361619",
+            "ValueText": "Isolation Amplifier"
+          },
+          {
+            "ParameterId": 474,
+            "ParameterText": "Input Type",
+            "ParameterType": "String",
+            "ValueId": "420137",
+            "ValueText": "Voltage"
+          },
+          {
+            "ParameterId": 2470,
+            "ParameterText": "Input Range (Current, Voltage)",
+            "ParameterType": "String",
+            "ValueId": "3050",
+            "ValueText": "0 ~ 10V"
+          },
+          {
+            "ParameterId": 2471,
+            "ParameterText": "Input Range (Additional)",
+            "ParameterType": "String",
+            "ValueId": "3025",
+            "ValueText": "0 ~ 100kOhm"
+          },
+          {
+            "ParameterId": 41,
+            "ParameterText": "Output Type",
+            "ParameterType": "String",
+            "ValueId": "335810",
+            "ValueText": "Current"
+          },
+          {
+            "ParameterId": 2462,
+            "ParameterText": "Output Range",
+            "ParameterType": "String",
+            "ValueId": "203342",
+            "ValueText": "4 ~ 20mA"
+          },
+          {
+            "ParameterId": 1165,
+            "ParameterText": "Isolation",
+            "ParameterType": "String",
+            "ValueId": "480629",
+            "ValueText": "2500V (Test)"
+          },
+          {
+            "ParameterId": 5,
+            "ParameterText": "Features",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 276,
+            "ParameterText": "Voltage - Supply",
+            "ParameterType": "String",
+            "ValueId": "155281",
+            "ValueText": "24VDC"
+          },
+          {
+            "ParameterId": 69,
+            "ParameterText": "Mounting Type",
+            "ParameterType": "String",
+            "ValueId": "339014",
+            "ValueText": "DIN Rail"
+          },
+          {
+            "ParameterId": 258,
+            "ParameterText": "Termination Style",
+            "ParameterType": "String",
+            "ValueId": "406540",
+            "ValueText": "Spring Terminal"
+          },
+          {
+            "ParameterId": 252,
+            "ParameterText": "Operating Temperature",
+            "ParameterType": "String",
+            "ValueId": "156439",
+            "ValueText": "-25°C ~ 70°C"
+          }
+        ],
+        "BaseProductNumber": null,
+        "Category": {
+          "CategoryId": 34,
+          "ParentId": 0,
+          "Name": "Industrial Automation and Controls",
+          "ProductCount": 0,
+          "NewProductCount": 0,
+          "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/953/537/MFG_1528_997_tmb.jpg",
+          "SeoDescription": "The industrial automation and control product category encompasses a wide variety of products used for industrial machine and process control, monitoring, and operator interface applications. They typically feature a higher level of integration than similar component-level products, and are designed to be usable as functional building blocks without further manufacturing steps, such as assembly onto a printed circuit board.",
+          "ChildCategories": [
+            {
+              "CategoryId": 1020,
+              "ParentId": 34,
+              "Name": "Signal Conditioners and Isolators",
+              "ProductCount": 0,
+              "NewProductCount": 0,
+              "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/122/IAMA3535_tmb.jpg",
+              "SeoDescription": "Signal conditioners are used to convert signals to a different level or type often for sensor measurements. Isolators are devices that separate or isolate one circuit from another in regard to power. Types available include isolation amplifiers, passive isolators, signal conditioners, and more. These are defined by various parameters including input type, output type, isolation voltage, extra features and more.",
+              "ChildCategories": []
+            }
+          ]
+        },
+        "DateLastBuyChance": null,
+        "ManufacturerLeadWeeks": "12",
+        "ManufacturerPublicQuantity": 0,
+        "Series": {
+          "Id": 4549,
+          "Name": "857"
+        },
+        "ShippingInfo": null,
+        "Classifications": {
+          "ReachStatus": "REACH Affected",
+          "RohsStatus": "ROHS3 Compliant",
+          "MoistureSensitivityLevel": "Not Applicable",
+          "ExportControlClassNumber": "EAR99",
+          "HtsusCode": "8538.90.1000"
+        },
+        "OtherNames": [
+          "0857414",
+          "0857-414",
+          "0857-0414",
+          "2943-857-414",
+          "2946-857-414",
+          "857414",
+          "8570414",
+          "2943-857-414-ND"
+        ]
+      },
+      {
+        "Description": {
+          "ProductDescription": "ISOLATION AMPLIFIER; CURRENT INP",
+          "DetailedDescription": "Isolation Amplifier Current DIN Rail"
+        },
+        "Manufacturer": {
+          "Id": 2946,
+          "Name": "WAGO Corporation"
+        },
+        "ManufacturerProductNumber": "857-415",
+        "UnitPrice": 281.99,
+        "ProductUrl": "https://www.digikey.com/en/products/detail/wago-corporation/857-415/15523116",
+        "DatasheetUrl": "https://wago.priintcloud.com/datasheets/857-415/en/",
+        "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4320/MFG_857-415.jpg",
+        "ProductVariations": [
+          {
+            "DigiKeyProductNumber": "2946-857-415-ND",
+            "PackageType": {
+              "Id": 62,
+              "Name": "Bag"
+            },
+            "StandardPricing": [
+              {
+                "BreakQuantity": 1,
+                "UnitPrice": 281.99,
+                "TotalPrice": 281.99
+              }
+            ],
+            "MyPricing": [],
+            "MarketPlace": false,
+            "TariffActive": false,
+            "Supplier": {
+              "Id": 2946,
+              "Name": "WAGO Corporation"
+            },
+            "QuantityAvailableforPackageType": 0,
+            "MaxQuantityForDistribution": 999999999,
+            "MinimumOrderQuantity": 1,
+            "StandardPackage": 1,
+            "DigiReelFee": 0.0
+          }
+        ],
+        "QuantityAvailable": 0,
+        "ProductStatus": {
+          "Id": 0,
+          "Status": "Active"
+        },
+        "BackOrderNotAllowed": false,
+        "NormallyStocking": false,
+        "Discontinued": false,
+        "EndOfLife": false,
+        "Ncnr": false,
+        "PrimaryVideoUrl": null,
+        "Parameters": [
+          {
+            "ParameterId": 183,
+            "ParameterText": "Type",
+            "ParameterType": "String",
+            "ValueId": "361619",
+            "ValueText": "Isolation Amplifier"
+          },
+          {
+            "ParameterId": 474,
+            "ParameterText": "Input Type",
+            "ParameterType": "String",
+            "ValueId": "335810",
+            "ValueText": "Current"
+          },
+          {
+            "ParameterId": 2470,
+            "ParameterText": "Input Range (Current, Voltage)",
+            "ParameterType": "String",
+            "ValueId": "3194",
+            "ValueText": "0 ~ 20mA"
+          },
+          {
+            "ParameterId": 2471,
+            "ParameterText": "Input Range (Additional)",
+            "ParameterType": "String",
+            "ValueId": "694625",
+            "ValueText": "0 ~ 50Ohm"
+          },
+          {
+            "ParameterId": 41,
+            "ParameterText": "Output Type",
+            "ParameterType": "String",
+            "ValueId": "420137",
+            "ValueText": "Voltage"
+          },
+          {
+            "ParameterId": 2462,
+            "ParameterText": "Output Range",
+            "ParameterType": "String",
+            "ValueId": "3050",
+            "ValueText": "0 ~ 10V"
+          },
+          {
+            "ParameterId": 1165,
+            "ParameterText": "Isolation",
+            "ParameterType": "String",
+            "ValueId": "480629",
+            "ValueText": "2500V (Test)"
+          },
+          {
+            "ParameterId": 5,
+            "ParameterText": "Features",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 276,
+            "ParameterText": "Voltage - Supply",
+            "ParameterType": "String",
+            "ValueId": "155281",
+            "ValueText": "24VDC"
+          },
+          {
+            "ParameterId": 69,
+            "ParameterText": "Mounting Type",
+            "ParameterType": "String",
+            "ValueId": "339014",
+            "ValueText": "DIN Rail"
+          },
+          {
+            "ParameterId": 258,
+            "ParameterText": "Termination Style",
+            "ParameterType": "String",
+            "ValueId": "406540",
+            "ValueText": "Spring Terminal"
+          },
+          {
+            "ParameterId": 252,
+            "ParameterText": "Operating Temperature",
+            "ParameterType": "String",
+            "ValueId": "156439",
+            "ValueText": "-25°C ~ 70°C"
+          }
+        ],
+        "BaseProductNumber": null,
+        "Category": {
+          "CategoryId": 34,
+          "ParentId": 0,
+          "Name": "Industrial Automation and Controls",
+          "ProductCount": 0,
+          "NewProductCount": 0,
+          "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/953/537/MFG_1528_997_tmb.jpg",
+          "SeoDescription": "The industrial automation and control product category encompasses a wide variety of products used for industrial machine and process control, monitoring, and operator interface applications. They typically feature a higher level of integration than similar component-level products, and are designed to be usable as functional building blocks without further manufacturing steps, such as assembly onto a printed circuit board.",
+          "ChildCategories": [
+            {
+              "CategoryId": 1020,
+              "ParentId": 34,
+              "Name": "Signal Conditioners and Isolators",
+              "ProductCount": 0,
+              "NewProductCount": 0,
+              "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/122/IAMA3535_tmb.jpg",
+              "SeoDescription": "Signal conditioners are used to convert signals to a different level or type often for sensor measurements. Isolators are devices that separate or isolate one circuit from another in regard to power. Types available include isolation amplifiers, passive isolators, signal conditioners, and more. These are defined by various parameters including input type, output type, isolation voltage, extra features and more.",
+              "ChildCategories": []
+            }
+          ]
+        },
+        "DateLastBuyChance": null,
+        "ManufacturerLeadWeeks": "12",
+        "ManufacturerPublicQuantity": 0,
+        "Series": {
+          "Id": 4549,
+          "Name": "857"
+        },
+        "ShippingInfo": null,
+        "Classifications": {
+          "ReachStatus": "REACH Unknown",
+          "RohsStatus": "ROHS3 Compliant",
+          "MoistureSensitivityLevel": "Not Applicable",
+          "ExportControlClassNumber": "EAR99",
+          "HtsusCode": "8543.70.9860"
+        },
+        "OtherNames": [
+          "0857415",
+          "2943-857-415",
+          "2946-857-415",
+          "0857-415",
+          "0857-0415",
+          "2943-857-415-ND",
+          "8570415",
+          "857415"
+        ]
+      },
+      {
+        "Description": {
+          "ProductDescription": "ISOLATION AMPLIFIER; VOLTAGE INP",
+          "DetailedDescription": "Isolation Amplifier Voltage DIN Rail"
+        },
+        "Manufacturer": {
+          "Id": 2946,
+          "Name": "WAGO Corporation"
+        },
+        "ManufacturerProductNumber": "857-413",
+        "UnitPrice": 281.99,
+        "ProductUrl": "https://www.digikey.com/en/products/detail/wago-corporation/857-413/15529074",
+        "DatasheetUrl": "https://wago.priintcloud.com/datasheets/857-413/en/",
+        "PhotoUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4537/MFG_857-413.jpg",
+        "ProductVariations": [
+          {
+            "DigiKeyProductNumber": "2946-857-413-ND",
+            "PackageType": {
+              "Id": 62,
+              "Name": "Bag"
+            },
+            "StandardPricing": [
+              {
+                "BreakQuantity": 1,
+                "UnitPrice": 281.99,
+                "TotalPrice": 281.99
+              }
+            ],
+            "MyPricing": [],
+            "MarketPlace": false,
+            "TariffActive": false,
+            "Supplier": {
+              "Id": 2946,
+              "Name": "WAGO Corporation"
+            },
+            "QuantityAvailableforPackageType": 0,
+            "MaxQuantityForDistribution": 999999999,
+            "MinimumOrderQuantity": 1,
+            "StandardPackage": 1,
+            "DigiReelFee": 0.0
+          }
+        ],
+        "QuantityAvailable": 0,
+        "ProductStatus": {
+          "Id": 0,
+          "Status": "Active"
+        },
+        "BackOrderNotAllowed": false,
+        "NormallyStocking": false,
+        "Discontinued": false,
+        "EndOfLife": false,
+        "Ncnr": false,
+        "PrimaryVideoUrl": null,
+        "Parameters": [
+          {
+            "ParameterId": 183,
+            "ParameterText": "Type",
+            "ParameterType": "String",
+            "ValueId": "361619",
+            "ValueText": "Isolation Amplifier"
+          },
+          {
+            "ParameterId": 474,
+            "ParameterText": "Input Type",
+            "ParameterType": "String",
+            "ValueId": "420137",
+            "ValueText": "Voltage"
+          },
+          {
+            "ParameterId": 2470,
+            "ParameterText": "Input Range (Current, Voltage)",
+            "ParameterType": "String",
+            "ValueId": "3050",
+            "ValueText": "0 ~ 10V"
+          },
+          {
+            "ParameterId": 2471,
+            "ParameterText": "Input Range (Additional)",
+            "ParameterType": "String",
+            "ValueId": "3025",
+            "ValueText": "0 ~ 100kOhm"
+          },
+          {
+            "ParameterId": 41,
+            "ParameterText": "Output Type",
+            "ParameterType": "String",
+            "ValueId": "335810",
+            "ValueText": "Current"
+          },
+          {
+            "ParameterId": 2462,
+            "ParameterText": "Output Range",
+            "ParameterType": "String",
+            "ValueId": "3194",
+            "ValueText": "0 ~ 20mA"
+          },
+          {
+            "ParameterId": 1165,
+            "ParameterText": "Isolation",
+            "ParameterType": "String",
+            "ValueId": "480629",
+            "ValueText": "2500V (Test)"
+          },
+          {
+            "ParameterId": 5,
+            "ParameterText": "Features",
+            "ParameterType": "String",
+            "ValueId": "1",
+            "ValueText": "-"
+          },
+          {
+            "ParameterId": 276,
+            "ParameterText": "Voltage - Supply",
+            "ParameterType": "String",
+            "ValueId": "155281",
+            "ValueText": "24VDC"
+          },
+          {
+            "ParameterId": 69,
+            "ParameterText": "Mounting Type",
+            "ParameterType": "String",
+            "ValueId": "339014",
+            "ValueText": "DIN Rail"
+          },
+          {
+            "ParameterId": 258,
+            "ParameterText": "Termination Style",
+            "ParameterType": "String",
+            "ValueId": "406540",
+            "ValueText": "Spring Terminal"
+          },
+          {
+            "ParameterId": 252,
+            "ParameterText": "Operating Temperature",
+            "ParameterType": "String",
+            "ValueId": "156439",
+            "ValueText": "-25°C ~ 70°C"
+          }
+        ],
+        "BaseProductNumber": null,
+        "Category": {
+          "CategoryId": 34,
+          "ParentId": 0,
+          "Name": "Industrial Automation and Controls",
+          "ProductCount": 0,
+          "NewProductCount": 0,
+          "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/953/537/MFG_1528_997_tmb.jpg",
+          "SeoDescription": "The industrial automation and control product category encompasses a wide variety of products used for industrial machine and process control, monitoring, and operator interface applications. They typically feature a higher level of integration than similar component-level products, and are designed to be usable as functional building blocks without further manufacturing steps, such as assembly onto a printed circuit board.",
+          "ChildCategories": [
+            {
+              "CategoryId": 1020,
+              "ParentId": 34,
+              "Name": "Signal Conditioners and Isolators",
+              "ProductCount": 0,
+              "NewProductCount": 0,
+              "ImageUrl": "https://www.digikey.com//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/388/122/IAMA3535_tmb.jpg",
+              "SeoDescription": "Signal conditioners are used to convert signals to a different level or type often for sensor measurements. Isolators are devices that separate or isolate one circuit from another in regard to power. Types available include isolation amplifiers, passive isolators, signal conditioners, and more. These are defined by various parameters including input type, output type, isolation voltage, extra features and more.",
+              "ChildCategories": []
+            }
+          ]
+        },
+        "DateLastBuyChance": null,
+        "ManufacturerLeadWeeks": "12",
+        "ManufacturerPublicQuantity": 0,
+        "Series": {
+          "Id": 4549,
+          "Name": "857"
+        },
+        "ShippingInfo": null,
+        "Classifications": {
+          "ReachStatus": "REACH Unknown",
+          "RohsStatus": "ROHS3 Compliant",
+          "MoistureSensitivityLevel": "Not Applicable",
+          "ExportControlClassNumber": "EAR99",
+          "HtsusCode": "8543.70.9860"
+        },
+        "OtherNames": [
+          "0857-413",
+          "0857413",
+          "0857-0413",
+          "2943-857-413",
+          "857413",
+          "2946-857-413",
+          "8570413",
+          "2943-857-413-ND"
+        ]
+      }
+    ]
+  }
+]
